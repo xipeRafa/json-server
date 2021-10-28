@@ -1,1 +1,35 @@
 
+{
+  "productos": [
+    {
+      "nombre": "rafael angel",
+      "precio": -1,
+      "id": 1
+    },
+    {
+      "nombre": "rafael angel",
+      "precio": -1,
+      "id": 2
+    },
+    {
+      "nombre": "wqd",
+      "precio": 2,
+      "id": 8
+    },
+    {
+      "nombre": "dededswsws",
+      "precio": "1",
+      "id": 10
+    },
+    {
+      "nombre": "dsae",
+      "precio": 1,
+      "id": 12
+    },
+    {
+      "nombre": "d",
+      "precio": 4,
+      "id": 13
+    }
+  ]
+}
